@@ -1,0 +1,6 @@
+projectKey=jeuxMines
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=jeuxMines
+ceTaskId=ed5f5be5-12d7-49bc-8e30-0d81f3323e2e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ed5f5be5-12d7-49bc-8e30-0d81f3323e2e
